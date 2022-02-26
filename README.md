@@ -4,17 +4,13 @@
   Huan Bispo, C# Developer with a passion for code and fixing problems. This is a microservice study developed in ASP.NET Core Web API Application with CRUD Operations and REST API Principles.
 </p>
 
-<p align="left">
-  🦄 Languages: <strong>C#</strong>
-</p>
+<h3> 🚧 &nbsp;About the application </h3>
 
-<p align="left">
-  💼 Database: <strong>MongoDB</strong>
-</p>
-
-<p align="left">
-  💼 Tools / Frameworks: <strong>Visual Studio, ASP.NET Core Web API, Docker</strong>
-</p>
+- 🤔 &nbsp; ASP.NET Core Web API Application
+- 🎓 &nbsp; REST API Principles, CRUD Operations
+- 💼 &nbsp; Repository Pattern Implementation
+- 🌱 &nbsp; MongoDB Database connection and containerization
+- 🐳 &nbsp; Containerize Catalog Microservices with MongoDB using Docker Compose
 
 <p align="left">
   💌 Please contact me: ⤵️
